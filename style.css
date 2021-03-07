@@ -1,0 +1,34 @@
+.header{
+    background-color:greenyellow;
+    text-align: center;    
+}
+h2{
+    text-align:center;
+    text-decoration-line: underline;
+    color: deeppink;
+}
+.li{
+    text-align: center;
+}
+.description{
+    text-align: center;
+    background-color: aqua;
+}
+.camel{
+    background-color:rgb(240, 224, 80) ;
+}
+.panda{
+    background-color:rgb(250, 160, 160);
+}
+.teddy{
+    background-color: rgb(240, 224, 80);
+}
+.pigeon{
+    background-color: rgb(250, 160, 160);
+}
+.Chameleon{
+    background-color: rgb(240, 224, 80);
+}
+.Cicada{
+    background-color: rgb(250, 160, 160);
+}
